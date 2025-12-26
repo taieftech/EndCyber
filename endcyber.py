@@ -129,7 +129,7 @@ class SimpleAttacker:
         if not wordlist:
             wordlist = "/usr/share/wordlists/dirb/common.txt"
         
-        cmd = f"dirb {url} {wordlist}"
+        cmd = f"dirb {url} {wordlist} -S"
         self.run_command_live(cmd, "dirb")
     
     def run_oneshot(self):
