@@ -1,10 +1,12 @@
-# EndCyber
-🚀 EndCyber - Ultimate Cybersecurity Toolkit
+# 🚀 **EndCyber - Ultimate Cybersecurity Toolkit**
 
-https://img.shields.io/badge/python-3.8+-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/platform-Linux-lightgrey.svg
-https://img.shields.io/badge/version-2.0.0-red.svg
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Linux-red)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Version](https://img.shields.io/badge/Version-2.0.0-critical)
+
+## ⚡ **The Most Comprehensive All-In-One Cybersecurity Framework**
 
 ⚡ The Most Comprehensive All-In-One Cybersecurity Framework
 
