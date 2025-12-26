@@ -69,7 +69,7 @@ Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/EndCyber.git
+git clone https://github.com/taieftech/EndCyber.git
 cd EndCyber
 
 # Make executable
