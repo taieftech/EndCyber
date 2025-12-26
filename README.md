@@ -85,7 +85,7 @@ The toolkit includes an auto-installer that downloads and configures all require
 
 ```bash
 # Run and select "Install All Brutal Tools"
-sudo python3 endcyber.py
+sudo python3 EndCyber/endcyber.py
 ```
 
 ---
