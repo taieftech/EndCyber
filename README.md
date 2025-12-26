@@ -76,7 +76,7 @@ cd EndCyber
 chmod +x endcyber.py
 
 # Run the toolkit
-sudo python3 endcyber.py
+sudo python3 EndCyber/endcyber.py
 ```
 
 One-Command Setup (Recommended)
